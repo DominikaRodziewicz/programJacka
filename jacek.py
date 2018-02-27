@@ -1,1 +1,2 @@
-print("Witam wszystkich kolegow i kolezanki")
+print("Witam wszystkich kolegow oraz kolezanki")
+print("Uwielbiam Was wszystkich!")
